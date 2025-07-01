@@ -29,12 +29,6 @@ A modern, customizable text editor built using **Java Swing**, featuring line nu
 
 ---
 
-## 📷 Screenshot
-
-> _Include a screenshot of the editor here if possible._
-
----
-
 ## 💻 Technologies Used
 
 - Java 8+ or later
